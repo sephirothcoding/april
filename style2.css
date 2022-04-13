@@ -1,17 +1,4 @@
 
-body{
-    display: flex;
-    justify-content: relative;
-    margin-left: 15%;
-    align-items: center;
-    height: 100vh;
-    background: url("https://img.xatblog.net/image/AyHeqZjTg.jpg");
-     background-size: contain;
-    font-family: 'Raleway', sans-serif;
-    font-weight: bold;
-    font-size: 40px;
-    z-index: 1300;
-}
 a{
     position: relative;
     display: inline-block;
