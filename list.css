@@ -10,7 +10,7 @@ body {
   font-weight: bold;
   background: url("https://img.xatblog.net/image/w3lXd00P2A.jpg");
   background-size: contain;
-  
+    column-count: 2;
 }
 
 .rolldown-list {
