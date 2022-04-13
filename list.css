@@ -4,9 +4,11 @@ html,body {
 }
 
 body {
-  font: 25px; 'Oswald', sans-serif;
+  font: 35px; 'Oswald', sans-serif;
   color: #fff;
   text-align: right;
+  font-weight: bold;
+  
 }
 
 .rolldown-list {
