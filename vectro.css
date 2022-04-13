@@ -14,7 +14,10 @@ body {
   background-repeat: no-repeat; 
   color: #fff; 
   position: relative;
+  margin:0 auto;
 }
+
+
 
 .chrome {
   position: relative;
