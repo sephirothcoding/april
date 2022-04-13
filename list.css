@@ -4,7 +4,7 @@ html,body {
 }
 
 body {
-  font: 1.2em/1.4 'Oswald', sans-serif;
+  font: 25px; 'Oswald', sans-serif;
   color: #fff;
   text-align: right;
 }
@@ -31,11 +31,11 @@ body {
 }
 
 .rolldown-list li:nth-child(2n) {
-  background-color: #444;
+  background-color: #7BEDFA;
 }
 
 .rolldown-list li:nth-child(2n+1) {
-  background-color: #333;
+  background-color: #7BEDFA;
 }
 
 #myList {
